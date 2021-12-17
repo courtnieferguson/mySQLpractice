@@ -32,3 +32,4 @@ if (hour===0 && prepand===' AM ')
     }
     }
 console.log("Time : " +hour + prepand + " : " + minute + " : " + second);
+console.log(document.URL);
